@@ -43,7 +43,7 @@ Feel free to contribute! Learn more: [Contributor's Guide: Adding Translations](
 | <img src="https://discordgsm.com/images/flags/es-ES.png" width=20 /> Spanish | Español | ✔️ | [es-ES.json](/discordgsm/translations/es-ES.json) | [@Akagioni](https://github.com/Akagioni) |
 | <img src="https://discordgsm.com/images/flags/fr.png" width=20 /> French | Français | ✔️ | [fr.json](/discordgsm/translations/fr.json) | [@Sami6053](https://github.com/Sami6053) |
 | <img src="https://discordgsm.com/images/flags/hr.png" width=20 /> Croatian | Hrvatski | ❌ | [hr.json](/discordgsm/translations/hr.json) |  |
-| <img src="https://discordgsm.com/images/flags/it.png" width=20 /> Italian | Italiano | ❌ | [it.json](/discordgsm/translations/it.json) |  |
+| <img src="https://discordgsm.com/images/flags/it.png" width=20 /> Italian | Italiano | ✔️ | [it.json](/discordgsm/translations/it.json) | @Biscottino42 |
 | <img src="https://discordgsm.com/images/flags/lt.png" width=20 /> Lithuanian | Lietuviškai | ❌ | [lt.json](/discordgsm/translations/lt.json) |  |
 | <img src="https://discordgsm.com/images/flags/hu.png" width=20 /> Hungarian | Magyar | ✔️ | [hu.json](/discordgsm/translations/hu.json) | [@w4sb0y](https://github.com/w4sb0y)  |
 | <img src="https://discordgsm.com/images/flags/nl.png" width=20 /> Dutch | Nederlands | ✔️ | [nl.json](/discordgsm/translations/nl.json) | [@CounterForce](https://github.com/CounterForce)  |
